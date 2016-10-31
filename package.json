@@ -1,0 +1,22 @@
+{
+	"name": "fis-optimizer-htmlformat",
+	"version": "1.0.1",
+	"description": "format html",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xitingwang/fis-optimizer-htmlformat.git"
+	},
+	"keywords": [
+		"fis", "fis3", "optimizer", "formatter",
+		"html"
+	],
+	"dependencies": {
+		"js-beautify": "*"
+	},
+	"author": "dw_wangchao1 <wangchao1@yy.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/xitingwang/fis-optimizer-htmlformat"
+	}
+}
